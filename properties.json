@@ -1,0 +1,7 @@
+{
+    "image_count": 1000,
+    "image_type": "jpg",
+    "method": 2,
+    "output": "images",
+    "exclude": "exclude"
+}
